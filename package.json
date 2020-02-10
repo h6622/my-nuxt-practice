@@ -4,15 +4,5 @@
   "main": "index.js",
   "repository": "https://github.com/h662/my-nuxt-practice.git",
   "author": "h662 <godh662@gmail.com>",
-  "license": "MIT",
-  "dependencies": {
-    "nuxt": "^2.11.0",
-    "vue": "^2.6.11"
-  },
-  "scripts": {
-    "dev": "nuxt"
-  },
-  "devDependencies": {
-    "@nuxtjs/vuetify": "^1.10.3"
-  }
+  "license": "MIT"
 }
